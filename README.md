@@ -1,5 +1,12 @@
 # auto-mesh-processor-46
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-mesh-processor-46/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-mesh-processor-46/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-mesh-processor-46)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-mesh-processor-46)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-mesh-processor-46)
+
 ## Detailed Description
 
 auto-mesh-processor-46 is maintained as an industry-grade software project with production-ready engineering practices.  
